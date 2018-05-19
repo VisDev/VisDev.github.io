@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 781.547 733.06">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0071bc;
+      }
+
+      .cls-2 {
+        fill: #00a9f4;
+      }
+
+      .cls-3 {
+        fill: #008bd8;
+      }
+    </style>
+  </defs>
+  <title>VisDevLogo</title>
+  <g id="Layer_4" data-name="Layer 4">
+    <path class="cls-1" d="M162.747,173.679h318.4L553.52,298.635v608.1" transform="translate(-162.747 -173.679)"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <polyline class="cls-2" points="390.774 733.06 390.774 0.581 781.547 0.581"/>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <polyline class="cls-1" points="781.547 0.081 390.774 0.081 586.16 366.821"/>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <polygon class="cls-3" points="552.038 430.918 390.774 124.947 390.774 0.081 586.16 366.821 552.038 430.918"/>
+  </g>
+</svg>
